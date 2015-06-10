@@ -1,4 +1,4 @@
 Speeches
 =====
 
-A collecction of speech outlines, notes, quotes, etc.
+A collection of speech outlines, notes, quotes, etc.
